@@ -23,7 +23,7 @@ struct ContentView: View {
                     Image(systemName: "wifi")
                     Text("Wi-Fi")
                     Spacer()
-                    Text("uai-Fai")
+                    Text("post1234")
                         .font(.callout)
                         .foregroundColor(.gray)
                 }
